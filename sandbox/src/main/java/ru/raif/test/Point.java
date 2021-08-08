@@ -1,0 +1,6 @@
+package ru.raif.test;
+
+public class Point {
+    public double x;
+    public double y;
+}
